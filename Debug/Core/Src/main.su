@@ -1,0 +1,8 @@
+../Core/Src/main.c:79:6:max7219_write	24	static
+../Core/Src/main.c:87:6:matrixInit	8	static
+../Core/Src/main.c:96:6:matrixData	24	static
+../Core/Src/main.c:110:5:main	16	static
+../Core/Src/main.c:162:6:SystemClock_Config	72	static
+../Core/Src/main.c:202:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:240:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:272:6:Error_Handler	4	static,ignoring_inline_asm
